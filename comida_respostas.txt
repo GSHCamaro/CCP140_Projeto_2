@@ -1,0 +1,27 @@
+Qual é o seu nome?
+Resposta: Guilherme
+Sua Comida favorita:
+Resposta: Lasanha
+Culinaria Preferida:
+Resposta: Italiana
+Satisfação da Pesquisa:
+Resposta: 9
+-----------------------------------------
+Qual é o seu nome?
+Resposta: João
+Sua Comida favorita:
+Resposta: Temaki
+Culinaria Preferida:
+Resposta: Japonesa
+Satisfação da Pesquisa:
+Resposta: 8
+-----------------------------------------
+Qual é o seu nome?
+Resposta: Edu
+Sua Comida favorita:
+Resposta: Feijoada
+Culinaria Preferida:
+Resposta: Brasileira
+Satisfação da Pesquisa:
+Resposta: 10
+-----------------------------------------
