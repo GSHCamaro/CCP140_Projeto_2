@@ -1,0 +1,21 @@
+[2024-11-19 01:42:13] Programa iniciado.
+[2024-11-19 01:43:13] Criando novo formulário: Super-Herói
+[2024-11-19 01:47:41] Formulario 'Super-Herói' salvo com sucesso.
+[2024-11-19 01:48:04] Listando formulários disponíveis.
+[2024-11-19 01:48:09] Tentativa de carregar formulário: Herói
+[2024-11-19 01:48:09] Formulario carregado: Herói
+[2024-11-19 01:48:53] Respostas salvas para o formulário: Herói
+[2024-11-19 01:48:53] Erro: Opção inválida escolhida.
+[2024-11-19 01:49:37] Programa encerrado.
+[2024-11-19 01:49:48] Programa iniciado.
+[2024-11-19 01:49:50] Listando formulários disponíveis.
+[2024-11-19 01:49:55] Tentativa de carregar formulário: Herói
+[2024-11-19 01:49:55] Formulario carregado: Herói
+[2024-11-19 01:50:47] Respostas salvas para o formulário: Herói
+[2024-11-19 01:51:05] Programa encerrado.
+[2024-11-19 01:52:23] Programa iniciado.
+[2024-11-19 01:52:32] Listando formulários disponíveis.
+[2024-11-19 01:52:41] Tentativa de carregar formulário: Herói
+[2024-11-19 01:52:41] Formulario carregado: Herói
+[2024-11-19 01:53:14] Respostas salvas para o formulário: Herói
+[2024-11-19 01:53:16] Programa encerrado.

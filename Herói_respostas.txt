@@ -1,0 +1,26 @@
+Qual é seu nome?
+Resposta: Guilherme
+Qual sua idade?
+Resposta: 21
+Escolha um Super-Herói:
+Resposta: Homem-Aranha
+Escolha um Vilão:
+Resposta: Coringa
+Quanto você gosta da DC?
+Resposta: 9
+Quanto você gosta da Marvel?
+Resposta: 8
+-----------------------------------------
+Qual é seu nome?
+Resposta: Jão
+Qual sua idade?
+Resposta: 27
+Escolha um Super-Herói:
+Resposta: Homem de Ferro
+Escolha um Vilão:
+Resposta: Loki
+Quanto você gosta da DC?
+Resposta: 5
+Quanto você gosta da Marvel?
+Resposta: 10
+-----------------------------------------
